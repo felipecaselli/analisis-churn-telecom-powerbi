@@ -1,7 +1,7 @@
 # Análisis de Fuga de Clientes (Churn) en Telecom con Power BI
 
-![Banner de Power BI o Telecom](https://i.imgur.com/g9b4O8R.png) 
-*( reemplazar esta imagen con una captura de pantalla del dashboard terminado)*
+<img width="1138" height="640" alt="image" src="https://github.com/user-attachments/assets/a66f1004-55d2-4577-be6a-a8efd3a1e98c" />
+
 
 ## 1. Contexto del Proyecto
 
@@ -49,7 +49,7 @@ El análisis del notebook se utilizó como base para construir un dashboard din�
 *( enlace del reporte de Power BI en la web)*
 
 ### Captura del Dashboard
-![Captura de pantalla del dashboard de Power BI](https... .png)
+<img width="1138" height="640" alt="image" src="https://github.com/user-attachments/assets/8db5e86f-2be1-4f05-baa7-09d278b2c6d7" />
 
 ## 5. Principales Hallazgos (Key Insights) 💡
 
